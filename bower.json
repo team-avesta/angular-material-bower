@@ -11,7 +11,7 @@
 		"angular-messages": "^1.4.8"
 	},
 	"main": [
-		"angular-material.min.js",
-		"angular-material.min.css"
+		"angular-material.js",
+		"angular-material.css"
 	]
 }
